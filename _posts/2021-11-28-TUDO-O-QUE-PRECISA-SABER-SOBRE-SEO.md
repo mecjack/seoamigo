@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TUDO O QUE PRECISA SABER SOBRE SEO
-categories: Miscellaneous
+#categories: Miscellaneous
 ---
 
 Se costuma andar pela internet provavelmente já ouviu falar de SEO. Estas três iniciais torna-ram-se numa das mais importantes ferramentas do marketing digital da actualidade e hoje em dia são poucos os sites que não recorrem a ela. Mas, afinal de contas, o que quer dizer SEO e como funciona?
