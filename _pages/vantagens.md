@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vantagens de seo
+title: Vantagens de utilizar SEO no seu site
 permalink: /vantagens-de-seo/
 ---
 
