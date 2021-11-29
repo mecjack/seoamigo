@@ -4,7 +4,7 @@ title: Vantagens de utilizar SEO no seu site
 permalink: /vantagens-de-seo/
 ---
 
-A internet operou uma autêntica revolução silenciosa nas nossas vidas, alterando significativa-mente a forma como trabalhamos, como comunicamos e até como consumimos. Rapidamente, as empresas e as marcas perceberam o potencial incrível desta ferramenta e passaram a explora-la para rentabilizarem o seu sucesso comercial. E o marketing digital, que procura desenvolver e implementar estratégias para aumentar as vendas e a visibilidade dos produtos e dos servi-ços nos diferentes canais digitais, tornou-se numa área fundamental.
+A internet operou uma autêntica revolução silenciosa nas nossas vidas, alterando significativa-mente a forma como trabalhamos, como comunicamos e até como consumimos. Rapidamente, as empresas e as marcas perceberam o potencial incrível desta ferramenta e passaram a explora-la para rentabilizarem o seu sucesso comercial. E o marketing digital, que procura desenvolver e implementar estratégias para aumentar as vendas e a visibilidade dos produtos e dos serviços nos diferentes canais digitais, tornou-se numa área fundamental.
 
 Dantes, não estar presente na rede era um suicídio comercial automático. Mas, atualmente, com a concorrência feroz que existe online, é necessário saber sobressair por entre a espuma da rebentação. O SEO é então uma estratégia fundamental para que os sites subam nas pesquisas dos motores de busca, aparecendo primeiro aos utilizadores e, como tal, aumentar as chances de vendas dos seus produtos ou serviços.
 
