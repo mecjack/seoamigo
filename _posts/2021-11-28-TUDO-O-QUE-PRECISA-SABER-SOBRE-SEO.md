@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TUDO O QUE PRECISA SABER SOBRE SEO
+title: Tudo o que precisa saber sobre SEO
 #categories: Miscellaneous
 ---
 

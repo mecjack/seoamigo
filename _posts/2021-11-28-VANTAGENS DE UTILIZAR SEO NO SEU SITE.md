@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TUDO O QUE PRECISA SABER SOBRE SEO
+title: Vantagens de utilizar SEO no seu site
 #categories: Miscellaneous
 ---
 
