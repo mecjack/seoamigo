@@ -2,48 +2,17 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<article class="page">
 
-        <!-- <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div> -->
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+  <h1>Tudo o que precisa saber sobre SEO</h1>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+  <div class="entry">
+    Se costuma andar pela internet provavelmente já ouviu falar de SEO. Estas três iniciais torna-ram-se numa das mais importantes ferramentas do marketing digital da actualidade e hoje em dia são poucos os sites que não recorrem a ela. Mas, afinal de contas, o que quer dizer SEO e como funciona?
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
+Para explicarmos tudo o que necessita saber sobre este tópico temos que começar pelo início. Aliás, é assim que devem iniciar-se as histórias. SEO são então as inicias de Search Engine Op-timization, o que traduzido livremente para português dá algo como Otimização para Motores de Busca. No fundo, o SEO é o conjunto de estratégias de marketing digital que procuram melhorar os websites para que estes apareçam no topo dos resultados de qualquer motor de busca.
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
+E o que é um motor de busca? Estes são aquelas plataformas que utilizamos para buscar qual-quer tipo de informação na internet, como é o caso do Google ou do Bing, apenas para citar dois dos mais populares. Sempre que fazemos uma pesquisa surgem milhares de resultado, se bem que sabemos por experiência própria que raramente passamos sequer para a segunda página. Isso quer dizer que, quanto mais alto surgir o nosso website numa pesquisa dessas, maiores são as probabilidades de efectuar uma venda ou de captar um novo seguidor.
 
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
   </div>
-  {% endif %}
-</div>
+</article>
+
